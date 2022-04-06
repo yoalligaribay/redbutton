@@ -1,0 +1,12 @@
+html{
+    font-family: sans-serif;
+}
+
+button{
+    padding: 12px;
+    border-radius: 8px;
+    background: red;
+    color: white;
+    font-weight: bold;
+    border: none;
+}
